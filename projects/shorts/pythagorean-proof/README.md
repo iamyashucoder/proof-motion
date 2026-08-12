@@ -1,14 +1,3 @@
-# Project title
+# Pythagorean Proof
 
-- **Format:** Short / Video
-- **Status:** Idea / In progress / Published
-- **YouTube URL:**
-- **Render command:**
-
-## Idea
-
-Describe the animation, simulation, or story.
-
-## Notes
-
--
+Source: `src/pythagorean_proof_short.py`.

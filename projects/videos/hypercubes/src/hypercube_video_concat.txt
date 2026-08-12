@@ -1,2 +1,0 @@
-file '/private/tmp/tesseract_6d_final/videos/tesseract_manim/1920p30/RotatingTesseract.mp4'
-file '/private/tmp/hypercubes_7_10/videos/hypercubes_7_to_10_manim/1920p30/HypercubesSevenToTen.mp4'

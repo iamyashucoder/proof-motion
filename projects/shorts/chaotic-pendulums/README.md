@@ -1,14 +1,3 @@
-# Project title
+# Chaotic Pendulums
 
-- **Format:** Short / Video
-- **Status:** Idea / In progress / Published
-- **YouTube URL:**
-- **Render command:**
-
-## Idea
-
-Describe the animation, simulation, or story.
-
-## Notes
-
--
+Source: `src/chaotic_pendulums_manim.py`.

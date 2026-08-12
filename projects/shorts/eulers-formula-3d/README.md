@@ -1,14 +1,3 @@
-# Project title
+# Euler's Formula 3D
 
-- **Format:** Short / Video
-- **Status:** Idea / In progress / Published
-- **YouTube URL:**
-- **Render command:**
-
-## Idea
-
-Describe the animation, simulation, or story.
-
-## Notes
-
--
+Source: `src/eulers_formula_3d_shorts.py`.
