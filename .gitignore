@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Manim render output and cache
+media/
+
+# Blender backups
+*.blend1
+*.blend2
+
+# Project render exports and previews
+**/renders/
+**/exports/
+**/previews/
+
+# OS and editor files
+.DS_Store
+.vscode/
