@@ -4,6 +4,16 @@ A home for the source files behind Proof Motion's YouTube animations and simulat
 
 Each upload lives in its own project folder, while reusable scenes, assets, and configuration live in `shared/`.
 
+## Project gallery
+
+| Project | Preview |
+| --- | --- |
+| Rotating Tesseract 4D | [<img src="projects/shorts/rotating-tesseract-4d/preview/thumbnail.png" width="180" alt="Rotating Tesseract 4D">](projects/shorts/rotating-tesseract-4d/) |
+| Pythagorean Proof | [<img src="projects/shorts/pythagorean-proof/preview/thumbnail.png" width="180" alt="Pythagorean Proof">](projects/shorts/pythagorean-proof/) |
+| Chaotic Pendulums | [<img src="projects/shorts/chaotic-pendulums/preview/thumbnail.png" width="180" alt="Chaotic Pendulums">](projects/shorts/chaotic-pendulums/) |
+| Polar Rosette | [<img src="projects/shorts/polar-rosette/preview/thumbnail.png" width="180" alt="Polar Rosette">](projects/shorts/polar-rosette/) |
+| Periwinkle Core Helix | [<img src="projects/shorts/periwinkle-core-helix/preview/thumbnail.png" width="180" alt="Periwinkle Core Helix">](projects/shorts/periwinkle-core-helix/) |
+
 ## Repository layout
 
 ```text
@@ -26,7 +36,7 @@ Copy `templates/project/` into either `projects/shorts/` or `projects/videos/`, 
 cp -R templates/project projects/shorts/my-animation-slug
 ```
 
-Fill in `README.md` with the idea, status, and render command. Keep source code, project-only assets, and exports inside that project directory.
+Fill in `README.md` with the idea, status, and render command. Keep source code and project-only assets inside that project directory. A derived still for GitHub presentation belongs in `preview/thumbnail.png`, not `assets/`.
 
 ## What belongs in Git
 
