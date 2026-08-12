@@ -1,0 +1,7 @@
+file '/private/tmp/equal_dims/videos/equal_scale_hypercubes_manim/1920p30/Hypercube4.mp4'
+file '/private/tmp/equal_dims/videos/equal_scale_hypercubes_manim/1920p30/Hypercube5.mp4'
+file '/private/tmp/equal_dims/videos/equal_scale_hypercubes_manim/1920p30/Hypercube6.mp4'
+file '/private/tmp/equal_dims/videos/equal_scale_hypercubes_manim/1920p30/Hypercube7.mp4'
+file '/private/tmp/equal_dims/videos/equal_scale_hypercubes_manim/1920p30/Hypercube8.mp4'
+file '/private/tmp/equal_dims/videos/equal_scale_hypercubes_manim/1920p30/Hypercube9.mp4'
+file '/private/tmp/equal_dims/videos/equal_scale_hypercubes_manim/1920p30/Hypercube10.mp4'

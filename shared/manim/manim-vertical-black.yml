@@ -1,0 +1,8 @@
+directories:
+  cache: "/private/tmp/manim-render-cache"
+camera:
+  resolution: (1080, 1920)
+  background_color: "#000000"
+  fps: 30
+sizes:
+  frame_height: 14.0
